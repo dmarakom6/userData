@@ -9,5 +9,5 @@
 | 0.5x   | :x:                 |
 
 
-## Reporting a Vulnerability
+
 New versions will be uploaded soon.
