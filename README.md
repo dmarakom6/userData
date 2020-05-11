@@ -4,3 +4,4 @@ If you want to use this program, you must have a copy of the license above, and 
 UserData.txt: This file contains each user's info, once he registers
 Loggedin.txt: This file contains which user logged in, and when. (year/month/day/min/sec/ms)
 LogginAttempts.txt: Same as above, though it captures only failed login attempts from the user(s)
+[![Run on Repl.it](https://repl.it/badge/github/dmarakom6/userData)](https://repl.it/github/dmarakom6/userData)
